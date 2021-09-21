@@ -1,0 +1,7 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+        <style name="Theme.CoinConverter" parent="Theme.MaterialComponents.Light.NoActionBar">
+            <item name="colorPrimary">#053AFB</item>
+            <item name="colorPrimaryDark">#F3EFEF</item>
+        </style>
+</resources>
