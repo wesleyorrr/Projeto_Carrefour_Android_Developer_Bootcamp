@@ -10,12 +10,12 @@
         android:id="@+id/toolbar"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:background="#0227FA"
+        android:background="#EDEBEB"
         app:layout_constraintBottom_toTopOf="@+id/imageView"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.003"
         app:title="@string/app_name"
-        app:titleTextColor="@color/white"
+        app:titleTextColor="#535252"
         tools:layout_editor_absoluteX="-16dp" />
 
 
