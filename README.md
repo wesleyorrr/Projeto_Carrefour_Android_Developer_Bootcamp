@@ -12,3 +12,12 @@
 - [x] [Processamento Assíncrono(Coroutines)](https://developer.android.com/kotlin/coroutines?gclsrc=aw.ds&gclid=CjwKCAiAtouOBhA6EiwA2nLKH1WwVRs3jTuIcE_LHY30kI3Av1cH2jjx2RSfebbdYJtgZLmKBygP1BoC0AsQAvD_BwE)
 - [x] [Processamento Assíncrono(Flow)](https://kotlinlang.org/docs/flow.html#representing-multiple-values)
 - [x] [Integração com API REST (Awesome API)](https://docs.awesomeapi.com.br/)
+
+<h1 align="center">
+	 <img src="https://github.com/wesleyorrr/Projeto-dio-Carrefour-Android-Developer/blob/master/car1.jpg" height="425" />
+  <img src="https://github.com/wesleyorrr/Projeto-dio-Carrefour-Android-Developer/blob/master/car2.jpg" height="425" />
+  <img src="https://github.com/wesleyorrr/Projeto-dio-Carrefour-Android-Developer/blob/master/car3.jpg" height="425" />
+  <img src="https://github.com/wesleyorrr/Projeto-dio-Carrefour-Android-Developer/blob/master/car%204.jpg" height="425" />
+ <img src="https://github.com/wesleyorrr/Projeto-dio-Carrefour-Android-Developer/blob/master/car8.jpg" height="425" />
+  
+</h1>
