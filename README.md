@@ -13,6 +13,8 @@
 - [x] [Processamento Assíncrono(Flow)](https://kotlinlang.org/docs/flow.html#representing-multiple-values)
 - [x] [Integração com API REST (Awesome API)](https://docs.awesomeapi.com.br/)
 
+# Imagem do Projeto
+
 <h1 align="center">
 	 <img src="https://github.com/wesleyorrr/Projeto-dio-Carrefour-Android-Developer/blob/master/car1.jpg" height="425" />
   <img src="https://github.com/wesleyorrr/Projeto-dio-Carrefour-Android-Developer/blob/master/car2.jpg" height="425" />
