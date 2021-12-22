@@ -1,8 +1,6 @@
-# App de conversão de moedas/câmbio com a utilizando as tecnologias.
-MVVM.
-e 
-Integração com API REST (Awesome API)
-  
+# App de conversão de moedas/câmbio
+## Objetivo  criar um App de conversão de moedas/câmbio, passando por todo o processo de desenvolvimento usando o Kotlin. Para isso, foi consumida uma API pública com as principais bibliotecas e padrões de projeto do Kotlin.
+
   - [x] [Android Studio](https://developer.android.com/studio?hl=pt&gclsrc=aw.ds&gclid=Cj0KCQiAk4aOBhCTARIsAFWFP9GJFuME6UxG4cgkUFzeBFgfa0b1XHhdBN9EPVe4G0To3rPTH6PDaw8aAr80EALw_wcB)
 - [x] [Kotlin](https://developer.android.com/kotlin?hl=pt&gclsrc=aw.ds&gclid=Cj0KCQiAk4aOBhCTARIsAFWFP9EYXeWC3amRzUtIkC9bwzgZbb4IUHqbp6vk8MgYOZ--DXlN1S484cUaAtvfEALw_wcB)
 - [x] [XML](https://developer.android.com/guide/topics/manifest/manifest-intro?gclsrc=aw.ds&gclid=Cj0KCQiAk4aOBhCTARIsAFWFP9GgxOFGyEUBS_kUYd_6Zq1mPFL0iYbW588UovfFmujkYNoX7RrAolcaAj6fEALw_wcB)
@@ -13,3 +11,4 @@ Integração com API REST (Awesome API)
 - [x] [Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
 - [x] [Processamento Assíncrono(Coroutines)](https://developer.android.com/kotlin/coroutines?gclsrc=aw.ds&gclid=CjwKCAiAtouOBhA6EiwA2nLKH1WwVRs3jTuIcE_LHY30kI3Av1cH2jjx2RSfebbdYJtgZLmKBygP1BoC0AsQAvD_BwE)
 - [x] [Processamento Assíncrono(Flow)](https://kotlinlang.org/docs/flow.html#representing-multiple-values)
+- [x] [Integração com API REST (Awesome API)](https://docs.awesomeapi.com.br/)
